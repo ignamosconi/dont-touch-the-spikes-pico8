@@ -1,7 +1,7 @@
 pico-8 cartridge // http://www.pico-8.com
 version 42
 __lua__
---flappy bird funcions
+ --flappy bird funcions
 
 function check_start()
 
